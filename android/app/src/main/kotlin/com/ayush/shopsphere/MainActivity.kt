@@ -1,4 +1,4 @@
-package com.sankargroup.shopsphere
+package com.ayush.shopsphere
 
 import io.flutter.embedding.android.FlutterActivity
 

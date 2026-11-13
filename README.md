@@ -1,7 +1,7 @@
 # ShopSphere
 
-A polished e-commerce Android app built with **Flutter** and **Supabase** for
-the Sankar Group Flutter internship assignment.
+A polished e-commerce Android app built with **Flutter** and **Supabase**.
+Developed by **Ayush**.
 
 ShopSphere pairs a warm, editorial storefront with a pragmatic architecture:
 Provider for state, repository abstractions for data, Supabase Auth and
@@ -161,5 +161,5 @@ empty and retry states. Errors are translated into friendly copy by
 
 ## License
 
-Created for the Sankar Group Flutter internship assignment. Sample product
-photography belongs to Unsplash contributors.
+Developed by Ayush. Sample product photography belongs to Unsplash
+contributors.
