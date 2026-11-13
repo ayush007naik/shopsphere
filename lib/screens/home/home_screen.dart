@@ -351,7 +351,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                         const SizedBox(height: 8),
                         Text(
-                          'SHOPSPHERE  ·  BY SANKAR GROUP',
+                          'SHOPSPHERE  ·  DEVELOPED BY AYUSH',
                           style: Theme.of(context).textTheme.labelSmall
                               ?.copyWith(
                                 fontSize: 8.5,

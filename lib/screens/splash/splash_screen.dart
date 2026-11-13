@@ -130,7 +130,7 @@ class _SplashScreenState extends State<SplashScreen>
               right: 24,
               bottom: 34,
               child: Text(
-                'SANKAR GROUP  ·  FLUTTER INTERNSHIP',
+                'FLUTTER INTERNSHIP  ·  DEVELOPED BY AYUSH',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontFamily: 'Poppins',

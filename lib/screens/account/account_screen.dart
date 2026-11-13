@@ -130,7 +130,7 @@ class AccountScreen extends StatelessWidget {
             const SizedBox(height: 26),
             Center(
               child: Text(
-                'SHOPSPHERE ${AppConfig.appVersion}  ·  SANKAR GROUP',
+                'SHOPSPHERE ${AppConfig.appVersion}  ·  DEVELOPED BY AYUSH',
                 style: Theme.of(context).textTheme.labelSmall?.copyWith(
                   fontSize: 8.5,
                   letterSpacing: 1.3,
